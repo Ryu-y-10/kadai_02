@@ -1,0 +1,11 @@
+.box {
+    height: 256px;
+    width: 256px;
+}
+.red {
+    background-color: #FF0000;
+}
+.blue {
+    background-color: #004EFF;
+    margin-top: 20px;
+}
